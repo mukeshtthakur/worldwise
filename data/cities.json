@@ -3,7 +3,7 @@
     {
       "cityName": "Lisbon",
       "country": "Portugal",
-      "emoji": "🇵🇹",
+      "emoji": "",
       "date": "2027-10-31T15:59:59.138Z",
       "notes": "My favorite city so far!",
       "position": {
@@ -25,7 +25,7 @@
       "id": 17806751
     },
     {
-      "cityName": "Munich",
+      "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
       "date": "2027-02-12T09:24:11.863Z",
@@ -37,28 +37,16 @@
       "id": 984497
     },
     {
-      "cityName": "Hamburg",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Baijnath",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-25T09:02:02.162Z",
+      "notes": "Home\n",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "32.07153367147483",
+        "lng": "76.66342321678698"
       },
-      "id": 983197
-    },
-    {
-      "cityName": "Bonn",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 9844317
+      "id": 73930386
     }
   ]
 }
